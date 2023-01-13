@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AnimeshJha2419
+- 👋 Hi, I’m @AnimeshJha2419 - Animesh Kumar Jha
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning and Data Mining
+- 🌱 I’m currently learning Machine Learning, Data Mining, and Data Visualization 
 - 💞️ I’m looking to collaborate on Assignments and Projects
 - 📫 How to reach me animeshkumarjha@arizona.edu
 
