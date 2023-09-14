@@ -10,8 +10,6 @@ With a diverse skill set that spans Python, R, SQL, and proficiency in various d
 
 - **Data Science Projects:** Explore my portfolio of projects, showcasing expertise in Natural Language Processing, data mining, and machine learning.
 
-- **Code Collaborations:** I actively contribute to open-source projects and collaborate with fellow data enthusiasts to solve real-world problems.
-
 - **Knowledge Sharing:** I'm passionate about sharing insights and best practices in data science, fostering collaboration within the community.
 
 ## Get in Touch
